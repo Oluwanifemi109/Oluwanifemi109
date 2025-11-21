@@ -66,6 +66,13 @@ Analyzed **$9.9M revenue (2017–2020)** for PrimeBeverage Distribution Ltd. to 
 - Tracked **KPIs, category profitability, supplier performance, and channel segmentation**
 - Delivered insights on Beer-driven collapse (70%+ share), seasonal peaks, top SKUs (Corona/Heineken), and wholesale channel strength for immediate turnaround actions
 
+### 📊 Digital Marketing Campaign Analysis
+Explored multi-channel ad performance data (2023) across Facebook, Pinterest, and more while also covering Spring, Summer, and Fall campaigns in cities like Birmingham and Manchester to uncover drivers of ROI, engagement, and conversions.
+
+- Executed in-depth SQL analysis on impressions, clicks, spend (£), conversion value, CTR/CPC, and social engagement metrics
+- Identified top-performing campaigns, channels (e.g., highest ROI platforms), devices (mobile vs. desktop), ad creatives, and city-level trends
+- Delivered actionable insights on cost efficiency, seasonal patterns, high-engagement ads, and optimization opportunities for better budget allocation and revenue growth
+
 ---
 
 ## 📊 **What I Deliver**
