@@ -54,6 +54,9 @@ Today, my day-to-day usually looks like this:
 
 **Productivity & Others**  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![MS PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
 
 ---
 
@@ -66,12 +69,20 @@ Analyzed **$9.9M revenue (2017–2020)** for PrimeBeverage Distribution Ltd. to 
 - Tracked **KPIs, category profitability, supplier performance, and channel segmentation**
 - Delivered insights on Beer-driven collapse (70%+ share), seasonal peaks, top SKUs (Corona/Heineken), and wholesale channel strength for immediate turnaround actions
 
-### 📊 Digital Marketing Campaign Analysis
-Explored multi-channel ad performance data (2023) across Facebook, Pinterest, and more while also covering Spring, Summer, and Fall campaigns in cities like Birmingham and Manchester to uncover drivers of ROI, engagement, and conversions.
+  **Tech:**
+  ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![MS PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-- Executed in-depth SQL analysis on impressions, clicks, spend (£), conversion value, CTR/CPC, and social engagement metrics
-- Identified top-performing campaigns, channels (e.g., highest ROI platforms), devices (mobile vs. desktop), ad creatives, and city-level trends
-- Delivered actionable insights on cost efficiency, seasonal patterns, high-engagement ads, and optimization opportunities for better budget allocation and revenue growth
+
+## 📊 Paid Advertising ROI Optimization – LuxeTrend Fashion (2023)
+Analyzed 152,000+ ad records and £1.2M+ in paid spend across Facebook, Pinterest, Google Ads & TikTok for a UK online fashion retailer.
+
+- Identified Pinterest Desktop as the top-performing channel (468% avg ROI) and Fall campaign delivering 30% higher conversions vs Spring
+- Proved Desktop converts at 23.99% (vs Mobile 20.42%) – reversing the “mobile-only” assumption
+- Built full SQL pipeline + 6 executive visualizations revealing winning creatives (“Discount” ads), city strategies, and Q4 seasonality
+- Delivered actionable 2024 budget reallocation plan projected to add £410k+ profit at same spend level (+29% conversions, ROAS 2.1× → 3.4×)
+
+  **Tech:**
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ---
 
