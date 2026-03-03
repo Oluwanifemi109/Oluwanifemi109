@@ -1,3 +1,11 @@
+<div align = "Center">
+<h1> Hello World! 👋 </h1>
+
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dlb3h5NXRnZzEzdzVldzc5dmhnNmR2dG15ZzBiaXJwMnV3YXhjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="40"> I'm [Oluwanifemi](https://www.linkedin.com/in/oluwanifemi-dipe-048ab6245?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BW77oSuRFQ0GiwiX3iQ5uNQ%3D%3D) and welcome to my GitHub profile!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000000&background=FFFFFF&vCenter=true&width=435&lines=%22It+is+a+capital+mistake+to+theorize...;...before+one+has+data%22;+%E2%80%94+Sherlock+Holmes)](https://git.io/typing-svg)
+
+</div>
 
 ## 🧑‍💻About Me
 
@@ -7,15 +15,13 @@ To me, real growth comes from truly understanding people: **what captures their 
 
 With strong skills in **Excel, Power BI, SQL, and Python**, I take raw, messy data and turn it into **clear, trustworthy insights that marketing teams** can actually use to move the needle.
 
+My mission is simple:  
+**Bridge the gap between data and growth** hereby making complex numbers simple, human, and ready to drive decisions.
 
 > “The future belongs to those who Learn, Unlearn, and Relearn.”  
 > — Inspired by Alvin Toffler
 
-My mission is simple:  
-**Bridge the gap between data and growth** hereby making complex numbers simple, human, and ready to drive decisions.
 
-> “It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.”  
-> — Sherlock Holmes
 
 
 ---
@@ -40,28 +46,51 @@ Today, my day-to-day usually looks like this:
 
 ---
 
-## 🛠️ **My Toolkit**
+### 🛠️ **My Toolkit**
+<table><tr><td valign="top" width="33%">
 
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Databases
+<div align="center"> 
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="100" /></a>  
+</div>
 
-**Visualization & Analytics**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+</td><td valign="top" width="33%">
 
-**Programming**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit__learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Productivity & Others**  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![MS PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+### Visualization & Analytics  
+<div align="center">  
+<a href="https://app.powerbi.com/" target="_blank"><img style="margin: 10px" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/powerbi.svg" alt="PowerBI" height="50" /></a>  
+<a href="https://excel.cloud.microsoft/en-us/" target="_blank"><img style="margin: 10px" src="https://github.com/pheralb/svgl/blob/main/static/library/microsoft-excel.svg" alt="Excel" height="50" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg" alt="Tableau" height="50" /></a>
+</div>
 
+</td><td valign="top" width="33%">
+
+
+
+### Programming  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/actions/starter-workflows/blob/main/icons/python.svg" alt="Python" height="50" /></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" height="50" /></a>
+<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" alt="NumPy" height="50" /></a>  
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib.svg" alt="Matplotlib" height="30" /></a>  
+<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn.svg" alt="Seaborn" height="40" /></a>  
+<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit_learn" height="100" /></a>
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+ ### Productivity & Others  
+<div align="center">  
+<a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg" alt="Jupyter" height="50" /></a>  
+<a href="https://word.cloud.microsoft/en-us/" target="_blank"><img style="margin: 10px" src="https://github.com/pheralb/svgl/blob/main/static/library/microsoft-word.svg" alt="MS Word" height="50" /></a>  
+<a href="https://powerpoint.cloud.microsoft/en-us/" target="_blank"><img style="margin: 10px" src="https://github.com/pheralb/svgl/blob/main/static/library/microsoft-powerpoint.svg" alt="MS Powerpoint" height="50" /></a>  
+
+</div>
+
+</td></tr></table>  
 
 ---
 
