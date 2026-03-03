@@ -7,11 +7,16 @@ To me, real growth comes from truly understanding people: **what captures their 
 
 With strong skills in **Excel, Power BI, SQL, and Python**, I take raw, messy data and turn it into **clear, trustworthy insights that marketing teams** can actually use to move the needle.
 
-My mission is simple:  
-**Bridge the gap between data and growth** — making complex numbers simple, human, and ready to drive decisions.
 
 > “The future belongs to those who Learn, Unlearn, and Relearn.”  
 > — Inspired by Alvin Toffler
+
+My mission is simple:  
+**Bridge the gap between data and growth** hereby making complex numbers simple, human, and ready to drive decisions.
+
+> “It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.”  
+> — Sherlock Holmes
+
 
 ---
 
@@ -119,3 +124,6 @@ Always happy to chat growth, analytics, or just share what’s working right now
   <a href="https://www.linkedin.com/in/oluwanifemi-dipe-048ab6245/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
